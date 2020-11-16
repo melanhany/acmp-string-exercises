@@ -1,5 +1,0 @@
-﻿  7 swap.cpp
-c:\users\jermajah\source\repos\7 swap\7 swap\7 swap.cpp(39): warning C4018: '<': signed/unsigned mismatch
-c:\users\jermajah\source\repos\7 swap\7 swap\7 swap.cpp(52): warning C4018: '<': signed/unsigned mismatch
-c:\users\jermajah\source\repos\7 swap\7 swap\7 swap.cpp(69): warning C4018: '<': signed/unsigned mismatch
-  7 swap.vcxproj -> C:\Users\JermaJah\source\repos\7 swap\Debug\7 swap.exe

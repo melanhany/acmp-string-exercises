@@ -1,0 +1,5 @@
+﻿  231.cpp
+c:\users\jermajah\source\repos\231\231\231.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\231\231\231.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\231\231\231.cpp(17): warning C4101: 'nn': unreferenced local variable
+  231.vcxproj -> C:\Users\JermaJah\source\repos\231\Debug\231.exe

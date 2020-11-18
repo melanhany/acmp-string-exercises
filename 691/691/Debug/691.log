@@ -1,0 +1,6 @@
+﻿  691.cpp
+c:\users\jermajah\source\repos\691\691\691.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\691\691\691.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\691\691\691.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\691\691\691.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  691.vcxproj -> C:\Users\JermaJah\source\repos\691\Debug\691.exe

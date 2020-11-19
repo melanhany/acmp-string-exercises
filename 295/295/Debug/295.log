@@ -1,0 +1,6 @@
+﻿  295.cpp
+c:\users\jermajah\source\repos\295\295\295.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\295\295\295.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\295\295\295.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\295\295\295.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  295.vcxproj -> C:\Users\JermaJah\source\repos\295\Debug\295.exe

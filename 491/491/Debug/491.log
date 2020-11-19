@@ -1,0 +1,4 @@
+﻿  491.cpp
+c:\users\jermajah\source\repos\491\491\491.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\jermajah\source\repos\491\491\491.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  491.vcxproj -> C:\Users\JermaJah\source\repos\491\Debug\491.exe
